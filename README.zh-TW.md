@@ -29,11 +29,11 @@
 
 ## 下載
 
-[下載最新版本](https://github.com/wishworldbetter/claudecodex/releases/latest)
+[下載最新版本](https://github.com/wishworldbetter/claude-codex-desktop/releases/latest)
 
 ## 安裝
 
-從 [Releases](https://github.com/wishworldbetter/claudecodex/releases) 頁面下載最新的 DMG 檔案，雙擊安裝即可。
+從 [Releases](https://github.com/wishworldbetter/claude-codex-desktop/releases) 頁面下載最新的 DMG 檔案，雙擊安裝即可。
 
 ### 前置要求
 

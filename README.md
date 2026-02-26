@@ -29,11 +29,11 @@ By spawning Claude Code as a child process. Simple, compliant, and legitimate.
 
 ## Download
 
-[Download the latest release](https://github.com/wishworldbetter/claudecodex/releases/latest)
+[Download the latest release](https://github.com/wishworldbetter/claude-codex-desktop/releases/latest)
 
 ## Install
 
-Download the latest DMG from the [Releases](https://github.com/wishworldbetter/claudecodex/releases) page and install.
+Download the latest DMG from the [Releases](https://github.com/wishworldbetter/claude-codex-desktop/releases) page and install.
 
 ### Prerequisites
 
