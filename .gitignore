@@ -1,0 +1,30 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Dependencies
+node_modules/
+
+# Build
+dist/
+out/
+build/
+
+# Env & secrets
+.env
+.env.*
+
+# Logs
+*.log
+
+# Playwright
+.playwright-mcp/
+
+# Claude
+.claude/
